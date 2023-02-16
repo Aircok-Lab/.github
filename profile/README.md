@@ -30,6 +30,15 @@
 
 ## Project 관리 메뉴얼
 
+#### Versioning(Semantic Versioning)
+- {major}.{minor}.{patch}
+- 첫 정식 배포시 v1.0.0으로 세팅할 것
+- Major: 이전 버전과 호환이 안 되는 변경이 있다면 숫자를 올려 작성
+- Minor: 이전 버전과 호환되는 기능 추가가 있다면 숫자를 올려 작성
+- Patch: 이전 버전의 버그를 수정했다면 숫자를 올려 작성
+- 시험판(알파, 베타 등) 및 추가 메타데이터들은 patch 뒤에 확장으로 작성
+- [Reference](https://semver.org/spec/v2.0.0.html)
+
 #### Open Source(Third Party Package 또는 Plugin 등)
 - Open Source 사용 시 해당 Repository를 Fork하여 Aircok-Lab의 Repository로 가져올 것
 #### Visiblity
