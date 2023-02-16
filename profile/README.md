@@ -3,14 +3,24 @@
 ## Project 권한 설정 메뉴얼
 
 ※ aircok(Organization Owner) 계정은 항상 Admin 부여
-- PR은 특별한 경우(Hotfix 등) 상황을 제외하고 항상 aircok 계정 이외의 Admin Role이 부여된 계정에게 보낼 것
-- 
 
 | Project Authority | Github Role |
 | ------ | ------ |
-| Manager | Admin |
+| aircok | Admin |
+| Manager | Admin or Maintain |
 | Member | Triage |
 | Other | Read or Nothing |
+
+
+## Project 관리 메뉴얼
+
+- Fork: 필요한 브런치만 개인 리포지터리에 남겨둘 것
+- Commit/Push: 절대 Aircok-Lab Repository 바로 보내선 안되며, Fork를 수행한 개인 Repository를 거쳐서 Aircok-Lab으로 보낼 것 (※ 모든 권한 예외 없음)
+- PR(Pull Request): 특별한 경우(Hotfix 등)를 제외하고 항상 aircok 계정 이외의 Admin Role이 부여된 계정에 요청 (※ Branch 주의, Manager는 바로 Aircok-Lab으로 PR 가능)
+- Merge: 검토 후 Manager가 수행
+- Issue Open: 오류 재현을 위한 명확한 시나리오 기재 (※ 개발 직군은 개발 환경, 오류 발생 예상 패키지(or 플러그인) 및 에러 로그 기재 필수) 
+- Issue Close: comment에 관련 PR 및 description 작성 필수
+- Discussion: 자유롭게 작성
 
 ## App Serevice Team
 ### Members
