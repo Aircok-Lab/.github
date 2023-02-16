@@ -1,6 +1,6 @@
 # Aircok 기술연구소
 
-## App_Serevice
+## App Serevice Team
 ### Members
 - aircok
 - sehoon787
@@ -8,7 +8,7 @@
 - JY0514
 - chpark4082
 
-## Web_Solution
+## Web Solution Team
 ### Members
 - aircok 
 - DreamingPoint
