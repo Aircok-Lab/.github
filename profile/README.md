@@ -30,7 +30,7 @@
 
 ## Project 관리 메뉴얼
 
-#### Open Source(Third Party Package 또는 Plugin)
+#### Open Source(Third Party Package 또는 Plugin 등)
 - Open Source 사용 시 해당 Repository를 Fork하여 Aircok-Lab의 Repository로 가져올 것
 #### Visiblity
 - 에어콕에서 제작한 모든 디자인, 문서, SDK 등의 개발 산출물은 기본적으로 Private 상태를 부여할 것
