@@ -1,4 +1,4 @@
-# Aircok 기술연구소(2023-02-16 적용)
+# Aircok 기술연구소
 
 ## App Serevice Team
 ### Members
@@ -16,7 +16,7 @@
 - 신서연 주임[[seoyeon-Shin]](https://github.com/seoyeon-Shin)
 </br>
 
-## Project 권한 설정 메뉴얼
+## Project 권한 설정 메뉴얼 (2023.02.16 이후 적용)
 
 ※ aircok(Organization Owner) 계정은 항상 Admin 부여
 
@@ -28,7 +28,7 @@
 | Other | Read or Nothing |
 </br>
 
-## Project 관리 메뉴얼
+## Project 관리 메뉴얼 (2023.02.16 이후 적용)
 
 #### Versioning(Semantic Versioning)
 - {major}.{minor}.{patch}
