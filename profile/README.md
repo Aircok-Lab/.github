@@ -1,4 +1,4 @@
-# Aircok 기술연구소
+# Aircok 기술연구소(2023-02-16 적용)
 
 ## App Serevice Team
 ### Members
