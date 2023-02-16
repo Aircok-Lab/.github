@@ -36,7 +36,7 @@
 - Open Source 수정 또는 사용시 기본적으로 원본의 License를 따라가며, 원본의 License가 설정되어 있지 않았을 경우 Public 상태를 유지할 것
 #### Fork
 - 필요한 브런치만 개인 Repository에 남겨둘 것
-#### Commit/Push(※ 모든 권한 예외 없음)
+#### Commit/Push(※ 모든 사용자 예외 없음)
 - 절대 Aircok-Lab Repository 바로 보내지 말 것
 - Fork를 수행한 개인 Repository를 거쳐 Aircok-Lab으로 PR할 것
 #### PR(※ Branch 주의)
