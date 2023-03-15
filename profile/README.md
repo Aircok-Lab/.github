@@ -4,7 +4,6 @@
 ### Members
 - 에어콕[[aircok]](https://github.com/aircok)
 - 김세훈 주임[[sehoon787]](https://github.com/sehoon787)
-- 박찬희 주임[[chpark4082]](https://github.com/chpark4082)
 - 박건우 사원[[Gundue]](https://github.com/Gundue)
 - 이지연 사원[[JY0514]](https://github.com/JY0514)
 
