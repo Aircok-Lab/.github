@@ -6,13 +6,11 @@
 ### Members
 - 김세훈 대리[[sehoon787]](https://github.com/sehoon787)
 - 박건우 사원[[Gundue]](https://github.com/Gundue)
-- 이지연 사원[[JY0514]](https://github.com/JY0514)
 
 ## Web Solution Team
 ### Members
 - 이도현 차장[[DreamingPoint]](https://github.com/DreamingPoint)
 - 노현수 주임[[MilkLotion]](https://github.com/MilkLotion)
-- 신서연 주임[[seoyeon-Shin]](https://github.com/seoyeon-Shin)
 </br>
 
 ## Project 권한 설정 메뉴얼 (2023.02.16 이후 적용)
