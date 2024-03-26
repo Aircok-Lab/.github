@@ -5,7 +5,6 @@
 ## App Serevice Team
 ### Members
 - 김세훈 대리[[sehoon787]](https://github.com/sehoon787)
-- 박건우 사원[[Gundue]](https://github.com/Gundue)
 
 ## Web Solution Team
 ### Members
