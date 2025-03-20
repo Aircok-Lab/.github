@@ -9,7 +9,6 @@
 ## Web Solution Team
 ### Members
 - 이도현 차장[[DreamingPoint]](https://github.com/DreamingPoint)
-- 노현수 주임[[MilkLotion]](https://github.com/MilkLotion)
 </br>
 
 ## Project 권한 설정 메뉴얼 (2023.02.16 이후 적용)
