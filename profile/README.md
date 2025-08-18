@@ -3,7 +3,7 @@
 - 에어콕[[aircok]](https://github.com/aircok)
 
 ## Members
-- 이도현 차장[[DreamingPoint]](https://github.com/DreamingPoint)
+- 이도현 부장[[DreamingPoint]](https://github.com/DreamingPoint)
 - 김세훈 대리[[sehoon787]](https://github.com/sehoon787)
 </br>
 
