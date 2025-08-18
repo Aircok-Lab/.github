@@ -2,13 +2,9 @@
 ### Master
 - 에어콕[[aircok]](https://github.com/aircok)
 
-## App Serevice Team
-### Members
-- 김세훈 대리[[sehoon787]](https://github.com/sehoon787)
-
-## Web Solution Team
-### Members
+## Members
 - 이도현 차장[[DreamingPoint]](https://github.com/DreamingPoint)
+- 김세훈 대리[[sehoon787]](https://github.com/sehoon787)
 </br>
 
 ## Project 권한 설정 메뉴얼 (2023.02.16 이후 적용)
